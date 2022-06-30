@@ -22,10 +22,8 @@
 * [4.1 Game Users](GameBox-ecological-construction/4.1Game-Users.md)
 * [4.2 KOL/ Developer](GameBox-ecological-construction/4.2KOL-Developer.md)
 * [4.3 The DAO](GameBox-ecological-construction/4.3The-DAO.md)
-
-- [4.4 Club](GameBox-ecological-construction/4.4Club.md)
-
-- [4.5 Game project party](GameBox-ecological-construction/4.5Game-project-party.md)
+* [4.4 Club](GameBox-ecological-construction/4.4Club.md)
+* [4.5 Game project party](GameBox-ecological-construction/4.5Game-project-party.md)
 
 ## Token economy
 
