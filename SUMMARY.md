@@ -6,7 +6,7 @@
 
 ## Team Introduction
 
-- [2. Team Introduction](Team-Introduction/2. Team Introduction.md)
+- [2. Team Introduction](Team-Introduction/2.Team-Introduction.md)
 
 ## Advantages of GameBox technology
 
