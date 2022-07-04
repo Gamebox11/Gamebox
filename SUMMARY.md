@@ -10,7 +10,7 @@
 
 ## Advantages of GameBox technology
 
-* [3. Advantages of GameBox technolog](Advantages-of-GameBox-technology/3.Advantages-of-GameBox-technology.md)
+* [3. Advantages of GameBox technolog](Advantages-of-GameBox-technology/3. Advantages-of-GameBox-technology.md)
 * [3.1 Infrastructure construction service provider of the meta-universe](Advantages-of-GameBox-technology/3.1Infrastructure-construction-service-provider-of-the-meta-universe.md)
 * [3.2 Base layer](Advantages-of-GameBox-technology/3.2Base-layer.md)
 * [3.3 The application layer](Advantages-of-GameBox-technology/3.3The-application-layer.md)
