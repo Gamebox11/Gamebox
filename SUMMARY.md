@@ -18,7 +18,7 @@
 
 ## GameBox ecological construction
 
-* [4. GameBox ecological construction](GameBox-ecological-construction/4.GameBox-ecological-construction.md)
+- [4. GameBox ecological construction](GameBox-ecological-construction/4.GameBox-ecological-construction.md)
 * [4.1 Game Users](GameBox-ecological-construction/4.1Game-Users.md)
 * [4.2 KOL/ Developer](GameBox-ecological-construction/4.2KOL-Developer.md)
 * [4.3 The DAO](GameBox-ecological-construction/4.3The-DAO.md)
