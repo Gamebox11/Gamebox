@@ -35,7 +35,7 @@
 
 ## GameBox Project development process
 
-- [6.GameBox Project development process](GameBox-Project-development-process/p1.png)
+- [6.GameBox Project development process](GameBox-Project-development-process/6.GameBox-Project-development-process.md)
 
 ## Disclaimer
 
